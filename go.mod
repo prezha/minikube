@@ -3,11 +3,11 @@ module k8s.io/minikube
 go 1.17
 
 require (
-	cloud.google.com/go/storage v1.20.0
+	cloud.google.com/go/storage v1.21.0
 	contrib.go.opencensus.io/exporter/stackdriver v0.13.10
 	github.com/Delta456/box-cli-maker/v2 v2.2.2
 	github.com/GoogleCloudPlatform/docker-credential-gcr v0.0.0-20210713212222-faed5e8b8ca2
-	github.com/GoogleCloudPlatform/opentelemetry-operations-go/exporter/trace v1.0.0
+	github.com/GoogleCloudPlatform/opentelemetry-operations-go/exporter/trace v1.3.0
 	github.com/Microsoft/hcsshim v0.8.17 // indirect
 	github.com/Parallels/docker-machine-parallels/v2 v2.0.1
 	github.com/VividCortex/godaemon v1.0.0
@@ -65,7 +65,7 @@ require (
 	github.com/russross/blackfriday v1.5.3-0.20200218234912-41c5fccfd6f6 // indirect
 	github.com/samalba/dockerclient v0.0.0-20160414174713-91d7393ff859 // indirect
 	github.com/shirou/gopsutil/v3 v3.22.1
-	github.com/spf13/cobra v1.3.0
+	github.com/spf13/cobra v1.4.0
 	github.com/spf13/pflag v1.0.5
 	github.com/spf13/viper v1.10.1
 	github.com/zchee/go-vmnet v0.0.0-20161021174912-97ebf9174097
@@ -86,15 +86,15 @@ require (
 	google.golang.org/api v0.71.0
 	gopkg.in/mgo.v2 v2.0.0-20190816093944-a6b53ec6cb22 // indirect
 	gopkg.in/yaml.v2 v2.4.0
-	k8s.io/api v0.23.4
-	k8s.io/apimachinery v0.23.4
-	k8s.io/client-go v0.23.4
+	k8s.io/api v0.23.5
+	k8s.io/apimachinery v0.23.5
+	k8s.io/client-go v0.23.5
 	k8s.io/cluster-bootstrap v0.0.0
-	k8s.io/component-base v0.23.4
+	k8s.io/component-base v0.23.5
 	k8s.io/klog/v2 v2.40.1
-	k8s.io/kubectl v0.22.2
+	k8s.io/kubectl v0.23.5
 	k8s.io/utils v0.0.0-20211116205334-6203023598ed
-	libvirt.org/go/libvirt v1.7010.0
+	libvirt.org/go/libvirt v1.8001.0
 	sigs.k8s.io/sig-storage-lib-external-provisioner/v6 v6.3.0
 )
 
