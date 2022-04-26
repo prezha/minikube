@@ -22,7 +22,7 @@ require (
 	github.com/docker/machine v0.16.2
 	github.com/elazarl/goproxy v0.0.0-20210110162100-a92cc753f88e
 	github.com/golang-collections/collections v0.0.0-20130729185459-604e922904d3
-	github.com/google/go-cmp v0.5.7
+	github.com/google/go-cmp v0.5.8
 	github.com/google/go-containerregistry v0.6.0
 	github.com/google/go-github/v36 v36.0.0
 	github.com/google/slowjam v1.0.0
@@ -84,13 +84,13 @@ require (
 	google.golang.org/api v0.75.0
 	gopkg.in/mgo.v2 v2.0.0-20190816093944-a6b53ec6cb22 // indirect
 	gopkg.in/yaml.v2 v2.4.0
-	k8s.io/api v0.23.5
+	k8s.io/api v0.23.6
 	k8s.io/apimachinery v0.23.6
-	k8s.io/client-go v0.23.5
+	k8s.io/client-go v0.23.6
 	k8s.io/cluster-bootstrap v0.0.0
-	k8s.io/component-base v0.23.5
+	k8s.io/component-base v0.23.6
 	k8s.io/klog/v2 v2.60.1
-	k8s.io/kubectl v0.23.5
+	k8s.io/kubectl v0.23.6
 	k8s.io/utils v0.0.0-20211116205334-6203023598ed
 	libvirt.org/go/libvirt v1.8002.0
 	sigs.k8s.io/sig-storage-lib-external-provisioner/v6 v6.3.0
