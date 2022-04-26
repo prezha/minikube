@@ -81,16 +81,16 @@ require (
 	golang.org/x/term v0.0.0-20210927222741-03fcf44c2211
 	golang.org/x/text v0.3.7
 	gonum.org/v1/plot v0.11.0
-	google.golang.org/api v0.75.0
+	google.golang.org/api v0.76.0
 	gopkg.in/mgo.v2 v2.0.0-20190816093944-a6b53ec6cb22 // indirect
 	gopkg.in/yaml.v2 v2.4.0
-	k8s.io/api v0.23.5
+	k8s.io/api v0.23.6
 	k8s.io/apimachinery v0.23.6
-	k8s.io/client-go v0.23.5
+	k8s.io/client-go v0.23.6
 	k8s.io/cluster-bootstrap v0.0.0
-	k8s.io/component-base v0.23.5
+	k8s.io/component-base v0.23.6
 	k8s.io/klog/v2 v2.60.1
-	k8s.io/kubectl v0.23.5
+	k8s.io/kubectl v0.23.6
 	k8s.io/utils v0.0.0-20211116205334-6203023598ed
 	libvirt.org/go/libvirt v1.8002.0
 	sigs.k8s.io/sig-storage-lib-external-provisioner/v6 v6.3.0
