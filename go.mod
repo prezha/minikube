@@ -20,7 +20,7 @@ require (
 	github.com/cloudevents/sdk-go/v2 v2.15.2
 	github.com/distribution/reference v0.6.0
 	github.com/docker/cli v27.0.2+incompatible
-	github.com/docker/docker v27.0.1+incompatible
+	github.com/docker/docker v27.0.2+incompatible
 	github.com/docker/go-connections v0.5.0
 	github.com/docker/go-units v0.5.0
 	github.com/docker/machine v0.16.2
@@ -74,7 +74,6 @@ require (
 	golang.org/x/sync v0.7.0
 	golang.org/x/sys v0.21.0
 	golang.org/x/term v0.21.0
-	golang.org/x/text v0.16.0
 	gonum.org/v1/plot v0.14.0
 	google.golang.org/api v0.186.0
 	gopkg.in/yaml.v2 v2.4.0
